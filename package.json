@@ -16,8 +16,8 @@
     "express-async-errors": "^3.1.1",
     "pg": "^8.3.0",
     "reflect-metadata": "^0.1.10",
-    "tsyringe": "^4.2.0",
-    "typeorm": "0.2.24"
+    "tsyringe": "^4.3.0",
+    "typeorm": "^0.2.27"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
